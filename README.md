@@ -12,7 +12,7 @@ Projeto Rocket.set desenvolvido no segundo módulo do Explorer da Rocketseat <br
   <img src="./.github/preview .png" width="100%">
 </p>
 
- <h2 align="center"><a href=" https://kaiquerebonato.github.io/Rocket.sect/" target="_blank">Projeto ao vivo</a></h2>
+ <h2 align="center"><a href="https://kaiquerebonato.github.io/Rocket.sect/" target="_blank">Projeto ao vivo</a></h2>
 
 ### 🚀 Tecnologias
 
